@@ -1,2 +1,2 @@
 
-Welcome to my react project 
+Welcome to my react JS Calculator!
